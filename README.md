@@ -37,4 +37,4 @@ subscriptions = sdk.multiquerier.subscription_querier.QuerySubscriptions(paginat
 
 ## Coded with Love by:
 
-@Nast0r, @Tkd-Alex
+[NAST0R · GitHub](https://github.com/NAST0R) , [Tkd-Alex (Alessandro Maggio) · GitHub](https://github.com/Tkd-Alex)

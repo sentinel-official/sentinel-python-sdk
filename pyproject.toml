@@ -3,13 +3,13 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "sentinel-sdk"
-version = "0.0.1"
+name = "sentinel_sdk"
+version = "0.0.2"
 description = "A Sentinel SDK Written in Python"
 authors = [
-    { name="NAST0R" },
-    { name="Tkd-Alex", email="tkdalex.test@gmail.com" },
-    { name="MathNodes", email="freQniK@mathnodes.com" },
+    { name = "NAST0R" },
+    { name = "Tkd-Alex", email = "dev@ctrl-felix.de" },
+    { name = "MathNodes", email = "freQniK@mathnodes.com'" },
 ]
 readme = "README.md"
 requires-python = ">=3.10"

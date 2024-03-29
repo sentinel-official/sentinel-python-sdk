@@ -45,6 +45,6 @@ subscriptions = sdk.subscriptions.QuerySubscriptions(pagination=PageRequest(limi
 
 ## Coded with Love by:
 
-[NAST0R · GitHub](https://github.com/NAST0R) , [Tkd-Alex (Alessandro Maggio) · GitHub](https://github.com/Tkd-Alex)
+[NAST0R · GitHub](https://github.com/NAST0R) , [Tkd-Alex (Alessandro Maggio) · GitHub](https://github.com/Tkd-Alex), [freQniK]([freQniK · GitHub](https://github.com/freQniK))
 
 **Commissioned by MathNodes** [MathNodes](https://github.com/MathNodes/sentinel-python-sdk)
